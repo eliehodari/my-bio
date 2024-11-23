@@ -38,7 +38,23 @@ body{
     margin-top: 1%;
     font-size: 18px;
     font-weight: lighter;
-    margin-bottom: 10%;
+    margin-bottom: 3%;
+}
+#reach-me{
+    color: wheat;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+#reach-me p{
+    font-size: 18px;
+    margin-right: 20%;
+    margin-top: 1%;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.reach-me-1{
+    margin-right: 23%;
 }
 
 
