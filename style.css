@@ -5,16 +5,19 @@
 body{
     background-color: black;
 }
+.header{
+    margin-top: 2%;
+}
 
 .me-1{
     text-align: center;
-    margin-top: 7%;
 }
 .me-1 h1{
    font-weight: bolder;
     font-style: italic;
     font-size: 38px; 
     color: rgb(39, 83, 83);
+    margin-top: 4%;
 }
 .me-1 img{
     margin-top: 4%;
